@@ -13,7 +13,7 @@ _Curated blog posts and articles to help you understand Solidity from real devs,
 > ### [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity/)  
 > A quick syntax-oriented guide to Solidity, ideal for developers familiar with other languages who want a fast-track understanding.
 
-> ### [Solidity Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/](https://consensysdiligence.github.io/smart-contract-best-practices/)  
+> ### [Solidity Smart Contract Security Best Practices](https://consensysdiligence.github.io/smart-contract-best-practices/)  
 > An essential read on security considerations and best practices when developing smart contracts in Solidity.
 
 > ### [Understanding Ethereum Smart Contracts](https://www.coindesk.com/learn/ethereum-101/what-are-ethereum-smart-contracts)  
