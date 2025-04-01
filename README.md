@@ -44,7 +44,7 @@ There’s something in here for you.
 ## 👋 Stay Connected
 
 We're building in public.  
-Follow the journey [@yourTwitterHandle](https://twitter.com/yourTwitterHandle) and stay up to date with new drops, collabs, and maybe a few bad jokes.
+Follow the journey [@the_web3compass](https://x.com/the_web3compass) and stay up to date with new drops, collabs, and maybe a few bad jokes.
 
 ---
 
